@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from setuptools.command.easy_install import auto_chmod
 
 st.set_page_config(layout='wide', page_title = 'StartUp Analysis')
 
